@@ -1,4 +1,4 @@
-# My Python Project
+# Document Q&A
 
 **Description:**
 Question and Answer application for documents with AWS Bedrock

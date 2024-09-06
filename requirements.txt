@@ -1,0 +1,6 @@
+streamlit
+boto3
+awscli
+langchain-community
+langchain-huggingface
+langchain_aws

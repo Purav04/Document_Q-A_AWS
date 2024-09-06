@@ -1,0 +1,6 @@
+# folders
+pdf files/
+faiss_embedding_store/
+
+# files
+experiments.py
